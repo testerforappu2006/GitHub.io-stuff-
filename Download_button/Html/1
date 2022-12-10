@@ -1,0 +1,8 @@
+<html>
+<body>
+
+<p>Click on the w3schools logo to download the image:<p>
+
+<a href="/images/myw3schoolsimage.jpg" download>
+  <img src="/images/myw3schoolsimage.jpg" alt="downlaod" width="104" height="142">
+</a>
